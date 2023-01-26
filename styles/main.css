@@ -1,0 +1,43 @@
+.kiwi_background {
+  width: 200px;
+  height: 200px;
+  
+
+  background-image: url("../assets/kiwi.jpg");
+  background: url("../assets/kiwi.jpg");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+/*  */
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+img {
+  object-fit: cover;
+}
